@@ -5,7 +5,7 @@
 - 🔭 I’m currently work at the data center of Cornélio Procópio City Hall.
 - 🌱 I’m currently learning java on POO class.
 - 📫 How to reach me: carlos.2005@alunos.utfpr.edu.br
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/him
 
  <div>
   <a href="https://github.com/carloseduardomf">
